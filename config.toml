@@ -12,3 +12,8 @@ defaultcontentlanguage = "de"
   icon = "fa fa-gitlab fa-2x"
   weight = 2
   url = "https://edugit.org/k1r1ll"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 3
+  url = ""
