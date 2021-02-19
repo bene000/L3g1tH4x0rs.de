@@ -7,3 +7,8 @@ defaultcontentlanguage = "de"
 	author = "Kirill Schmidt, Benedict Suska"
 	info = "Deppen mit Chatserver"
 	description = "L3g1tH4x0rs, sheesh!"
+[[params.social]]
+  name = "Gitlab"
+  icon = "fa fa-gitlab fa-2x"
+  weight = 2
+  url = "https://edugit.org/k1r1ll"
