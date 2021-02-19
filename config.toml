@@ -1,3 +1,9 @@
 baseURL = "localhost"
 title = "L3g1tH4x0rs"
 theme = "hugo-coder"
+languagecode = "de"
+defaultcontentlanguage = "de"
+[params]
+	author = "Kirill Schmidt, Benedict Suska"
+	info = "Deppen mit Chatserver"
+	description = "L3g1tH4x0rs, sheesh!"
