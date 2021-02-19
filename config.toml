@@ -1,4 +1,4 @@
-baseURL = "localhost"
+baseURL = "/"
 title = "L3g1tH4x0rs"
 theme = "hugo-coder"
 languagecode = "de"
@@ -8,6 +8,7 @@ defaultcontentlanguage = "de"
 	info = "Deppen mit Chatserver"
 	description = "L3g1tH4x0rs, sheesh!"
 	colorScheme = "auto"
+	avatarurl = "APG.jpg"
 [[params.social]]
   name = "Gitlab"
   icon = "fa fa-gitlab fa-2x"
